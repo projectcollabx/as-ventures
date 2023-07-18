@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/as-ventures/static/css/main.3603faf9.chunk.css",
+    "main.js": "/as-ventures/static/js/main.fc3c303e.chunk.js",
+    "main.js.map": "/as-ventures/static/js/main.fc3c303e.chunk.js.map",
+    "runtime-main.js": "/as-ventures/static/js/runtime-main.17c5e432.js",
+    "runtime-main.js.map": "/as-ventures/static/js/runtime-main.17c5e432.js.map",
+    "static/js/2.ed849ce8.chunk.js": "/as-ventures/static/js/2.ed849ce8.chunk.js",
+    "static/js/2.ed849ce8.chunk.js.map": "/as-ventures/static/js/2.ed849ce8.chunk.js.map",
+    "index.html": "/as-ventures/index.html",
+    "static/css/main.3603faf9.chunk.css.map": "/as-ventures/static/css/main.3603faf9.chunk.css.map",
+    "static/js/2.ed849ce8.chunk.js.LICENSE.txt": "/as-ventures/static/js/2.ed849ce8.chunk.js.LICENSE.txt",
+    "static/media/Appstore.d0c58399.png": "/as-ventures/static/media/Appstore.d0c58399.png",
+    "static/media/Profile.697fdcd2.png": "/as-ventures/static/media/Profile.697fdcd2.png",
+    "static/media/Home.css": "/as-ventures/static/media/haridwar3.86d7fe09.jpg",
+    "static/media/playstore.82b48319.png": "/as-ventures/static/media/playstore.82b48319.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17c5e432.js",
+    "static/js/2.ed849ce8.chunk.js",
+    "static/css/main.3603faf9.chunk.css",
+    "static/js/main.fc3c303e.chunk.js"
+  ]
+}
