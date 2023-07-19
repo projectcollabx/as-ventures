@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/as-ventures/static/css/main.3603faf9.chunk.css",
-    "main.js": "/as-ventures/static/js/main.fc3c303e.chunk.js",
-    "main.js.map": "/as-ventures/static/js/main.fc3c303e.chunk.js.map",
-    "runtime-main.js": "/as-ventures/static/js/runtime-main.17c5e432.js",
-    "runtime-main.js.map": "/as-ventures/static/js/runtime-main.17c5e432.js.map",
-    "static/js/2.ed849ce8.chunk.js": "/as-ventures/static/js/2.ed849ce8.chunk.js",
-    "static/js/2.ed849ce8.chunk.js.map": "/as-ventures/static/js/2.ed849ce8.chunk.js.map",
-    "index.html": "/as-ventures/index.html",
-    "static/css/main.3603faf9.chunk.css.map": "/as-ventures/static/css/main.3603faf9.chunk.css.map",
-    "static/js/2.ed849ce8.chunk.js.LICENSE.txt": "/as-ventures/static/js/2.ed849ce8.chunk.js.LICENSE.txt",
-    "static/media/Appstore.d0c58399.png": "/as-ventures/static/media/Appstore.d0c58399.png",
-    "static/media/Profile.697fdcd2.png": "/as-ventures/static/media/Profile.697fdcd2.png",
-    "static/media/Home.css": "/as-ventures/static/media/haridwar3.86d7fe09.jpg",
-    "static/media/playstore.82b48319.png": "/as-ventures/static/media/playstore.82b48319.png"
+    "main.css": "/static/css/main.2fb28ddf.chunk.css",
+    "main.js": "/static/js/main.1513fab6.chunk.js",
+    "main.js.map": "/static/js/main.1513fab6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8233b8b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8233b8b5.js.map",
+    "static/js/2.45828423.chunk.js": "/static/js/2.45828423.chunk.js",
+    "static/js/2.45828423.chunk.js.map": "/static/js/2.45828423.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2fb28ddf.chunk.css.map": "/static/css/main.2fb28ddf.chunk.css.map",
+    "static/js/2.45828423.chunk.js.LICENSE.txt": "/static/js/2.45828423.chunk.js.LICENSE.txt",
+    "static/media/Appstore.d0c58399.png": "/static/media/Appstore.d0c58399.png",
+    "static/media/Profile.697fdcd2.png": "/static/media/Profile.697fdcd2.png",
+    "static/media/a&s_logo.e75f014a.png": "/static/media/a&s_logo.e75f014a.png",
+    "static/media/Home.css": "/static/media/haridwar3.86d7fe09.jpg",
+    "static/media/aboutSection.css": "/static/media/haridwar4.58ed91c3.jfif",
+    "static/media/playstore.82b48319.png": "/static/media/playstore.82b48319.png",
+    "static/media/sample1.f11174c9.jpg": "/static/media/sample1.f11174c9.jpg",
+    "static/media/sample2.fc56df18.jpg": "/static/media/sample2.fc56df18.jpg",
+    "static/media/sample3.ddba3f52.jpg": "/static/media/sample3.ddba3f52.jpg",
+    "static/media/sample4.e5070fb9.jpg": "/static/media/sample4.e5070fb9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.17c5e432.js",
-    "static/js/2.ed849ce8.chunk.js",
-    "static/css/main.3603faf9.chunk.css",
-    "static/js/main.fc3c303e.chunk.js"
+    "static/js/runtime-main.8233b8b5.js",
+    "static/js/2.45828423.chunk.js",
+    "static/css/main.2fb28ddf.chunk.css",
+    "static/js/main.1513fab6.chunk.js"
   ]
 }
